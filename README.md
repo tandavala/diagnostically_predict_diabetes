@@ -6,3 +6,14 @@ The underlying dataset originates from the National Institute of Diabetes and Di
 
 In essence, the dataset comprises several medical predictor variables, with the primary target being the variable labeled as ```outcome```. The culmination of these variables contributes to the efficacy of the machine learning model in making informed predictions regarding a patient's diabetic status.
 
+
+# Stack
+
+- Python
+- Jupyter NoteBook
+- Scikit-Learn
+- Docker
+- Flask API (para o  backend)
+- React Js (para aplicação web)
+- github
+
