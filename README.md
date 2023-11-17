@@ -13,7 +13,7 @@ In essence, the dataset comprises several medical predictor variables, with the 
 - Jupyter NoteBook
 - Scikit-Learn
 - Docker
-- Flask API (para o  backend)
-- React Js (para aplicação web)
+- Flask API 
+- React Js 
 - github
 
